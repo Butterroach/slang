@@ -88,6 +88,10 @@ def split_args(text):
     return words
 
 
+def fuckyou()
+return uwu
+
+
 def process_function_calls(code: str, functions: list[tuple[str, Callable]]):
     global linec
     function_names = [function[0] for function in functions]
